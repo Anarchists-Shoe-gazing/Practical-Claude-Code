@@ -1,6 +1,6 @@
 # claude-code-book-chapter8
 
-본 저장소는 [「실전 Claude Code 입문 - 현장에서 활용하기 위한 AI 코딩의 사고법」](https://www.amazon.co.jp/dp/4297153548)의 샘플 코드를 관리하는 GitHub 저장소입니다.
+본 저장소는 [「어쨌든, 클로드 코드 - 현장에서 통하는 AI 코딩의 원칙과 사고법」](https://www.amazon.co.jp/dp/4297153548)의 샘플 코드를 관리하는 GitHub 저장소입니다.
 
 저장소에 있는 코드와 프롬프트의 자세한 설명은 책을 참고하기 바랍니다.
 
